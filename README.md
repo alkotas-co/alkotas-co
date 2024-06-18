@@ -1,9 +1,9 @@
-Good design is innovative.\n
-Good design makes a product useful.\n
-Good design is aesthetic.\n
-Good design helps a product to be understood.\n
-Good design is unobtrusive.\n
-Good design is honest.\n
-Good design is thorough to the last detail.\n
-Good design is concerned with the environment.\n
-Good design is as little design as possible.\n
+Good design is innovative.<br />
+Good design makes a product useful.<br />
+Good design is aesthetic.<br />
+Good design helps a product to be understood.<br />
+Good design is unobtrusive.<br />
+Good design is honest.<br />
+Good design is thorough to the last detail.<br />
+Good design is concerned with the environment.<br />
+Good design is as little design as possible.<br />
